@@ -1,4 +1,4 @@
-package solutions;
+package TimeComplexity;
 
 public class Froggy {
   public static void main(String[] args) {
